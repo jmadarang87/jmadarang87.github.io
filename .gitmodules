@@ -1,3 +1,3 @@
-[submodule "build/pdf.js"]
+[submodule "pdf.js"]
 	path = pdf.js
 	url = https://github.com/mozilla/pdf.js
